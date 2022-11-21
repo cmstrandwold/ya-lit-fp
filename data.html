@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="copyright" content="MACode ID, https://macodeid.com/">
+    <title>DS 4200 Final Project</title>
+    <link rel="stylesheet" href="stylesheets/stylesheet.css">
+    <link rel="stylesheet" href="stylesheets/normalize.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <link rel="stylesheet" href="assets/css/maicons.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.css">
+    <link rel="stylesheet" href="assets/vendor/animate/animate.css">
+    <link rel="stylesheet" href="assets/css/theme.css">
+    <script src="components/page/footer.js" type="text/javascript" defer></script>
+    <script src="components/page/header.js" type="text/javascript" defer></script>
+
+</head>
+
+
+
+<body>
+<!-- Back to top button -->
+<div class="back-to-top"></div>
+<header-component pagename="Data"></header-component>
+
+  <div class="page-section">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col py-3">
+          <h2 class="title-section">Data</h2>
+          <div class="divider"></div>
+
+          <p>
+            <a href="https://developer.nytimes.com/docs/books-product/1/routes/lists/best-sellers/history.json/get">Link to NYT API</a>
+            <h3>Current Bestseller List</h3>
+            <div id="current-bestseller"></div>
+            
+            <h3>2016 Bestseller List</h3>
+            <div id="2016-bestseller"></div>
+            </p>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <footer-component><footer-component/>
+
+</body>
+
+<script type="text/javascript" defer>
+
+var getString = (jsonResponse) => {
+
+      var fullList = '<ol>';
+      jsonResponse['results']['books'].forEach(element => {
+        console.log(element.primary_isbn13)
+        fullList += '<li>'+element.title + ': '
+        fetch('https://openlibrary.org/api/books?bibkeys=ISBN:'+ element.primary_isbn13 + '&jscmd=data&format=json')
+          .then(response => response.json())
+          .then(jsonResponse => {
+            var subjects = jsonResponse['ISBN:'+element.primary_isbn13]['subjects'].slice(0, 10)
+            subjects.forEach(sub => {
+              console.log(sub ['name'])
+              fullList += sub['name'] + ', '
+            })
+            console.log(subjects)
+          })
+        // isbn = element.isbn
+        fullList += '</li>'
+      });
+      fullList += '</ol>'
+      return fullList
+    }
+  
+  var current = fetch('https://api.nytimes.com/svc/books/v3/lists/current/young-adult-paperback.json?api-key=6w7msGHKTM0cvLrsHgH2vrjKFnueq8Ec')
+    .then((response) => response.json())
+    .then(jsonResponse => {
+      console.log(getString(jsonResponse))
+      document.getElementById("current-bestseller").innerHTML = getString(jsonResponse)
+    })
+
+
+    var list2016 = fetch('https://api.nytimes.com/svc/books/v3/lists/2016-01-03/young-adult-paperback.json?api-key=6w7msGHKTM0cvLrsHgH2vrjKFnueq8Ec')
+    .then((response) => response.json())
+    .then(jsonResponse => document.getElementById("2016-bestseller").innerHTML = getString(jsonResponse))
+
+    
+  
+</script>
+</html>
