@@ -56,7 +56,6 @@
 var getString = (jsonResponse) => {
       var fullList = '<ol>';
       jsonResponse['results']['books'].forEach(element => {
-        console.log(element.primary_isbn13)
         fullList += '<li>'+element.title + ': '
         var list = fetch('https://openlibrary.org/api/books?bibkeys=ISBN:'+ element.primary_isbn13 + '&jscmd=data&format=json')
           .then(response => response.json())
@@ -66,7 +65,6 @@ var getString = (jsonResponse) => {
               console.log(sub ['name'])
               fullList += sub['name'] + ', '
             })
-            console.log(subjects)
           })
         // isbn = element.isbn
         fullList += '</li>'
@@ -78,7 +76,6 @@ var getString = (jsonResponse) => {
   var current = fetch('https://api.nytimes.com/svc/books/v3/lists/current/young-adult-paperback.json?api-key=6w7msGHKTM0cvLrsHgH2vrjKFnueq8Ec')
     .then((response) => response.json())
     .then(jsonResponse => {
-      console.log(getString(jsonResponse))
       document.getElementById("current-bestseller").innerHTML = getString(jsonResponse)
     })
 
