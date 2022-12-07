@@ -1,0 +1,435 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+    "num_results": 10,
+    "last_modified": "2020-12-24T00:39:01-05:00",
+    "results": [
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2020-12-19",
+        "published_date": "2021-01-03",
+        "rank": 1,
+        "rank_last_week": 1,
+        "weeks_on_list": 151,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/One-Us-Lying-Karen-McManus/dp/1524714682?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1524714682",
+            "isbn13": "9781524714680"
+          },
+          {
+            "isbn10": "1524714690",
+            "isbn13": "9781524714697"
+          },
+          {
+            "isbn10": "1432876856",
+            "isbn13": "9781432876852"
+          },
+          {
+            "isbn10": "0593565371",
+            "isbn13": "9780593565377"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "ONE OF US IS LYING",
+            "description": "For five students, a detour into detention ends in murder.",
+            "contributor": "by Karen M. McManus",
+            "author": "Karen M. McManus",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Delacorte",
+            "primary_isbn13": "9781524714680",
+            "primary_isbn10": "1524714682"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2020-12-19",
+        "published_date": "2021-01-03",
+        "rank": 2,
+        "rank_last_week": 4,
+        "weeks_on_list": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/dp/0525708006?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "0525708006",
+            "isbn13": "9780525708001"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "THE COUSINS",
+            "description": "Three cousins learn about their family's dark past.",
+            "contributor": "by Karen M. McManus",
+            "author": "Karen M. McManus",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Delacorte",
+            "primary_isbn13": "9780525708001",
+            "primary_isbn10": "0525708006"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2020-12-19",
+        "published_date": "2021-01-03",
+        "rank": 3,
+        "rank_last_week": 3,
+        "weeks_on_list": 199,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Hate-U-Give-Angie-Thomas/dp/0062498533?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "0062498533",
+            "isbn13": "9780062498533"
+          },
+          {
+            "isbn10": "1432841696",
+            "isbn13": "9781432841690"
+          },
+          {
+            "isbn10": "0062871358",
+            "isbn13": "9780062871350"
+          },
+          {
+            "isbn10": "0062872346",
+            "isbn13": "9780062872340"
+          },
+          {
+            "isbn10": "0062498541",
+            "isbn13": "9780062498540"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "THE HATE U GIVE",
+            "description": "A 16-year-old girl sees a police officer kill her friend.",
+            "contributor": "by Angie Thomas",
+            "author": "Angie Thomas",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Balzer + Bray",
+            "primary_isbn13": "9780062498533",
+            "primary_isbn10": "0062498533"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2020-12-19",
+        "published_date": "2021-01-03",
+        "rank": 4,
+        "rank_last_week": 7,
+        "weeks_on_list": 5,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/dp/1419735055?tag=NYTBSREV-20",
+        "isbns": [],
+        "book_details": [
+          {
+            "title": "AVATAR, THE LAST AIRBENDER: THE SHADOW OF KYOSHI",
+            "description": "Kyoshi must stop a mysterious threat that emerges from the Spirit World.",
+            "contributor": "by F.C. Yee",
+            "author": "FC Yee",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Amulet",
+            "primary_isbn13": "9781419735059",
+            "primary_isbn10": "1419735055"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2020-12-19",
+        "published_date": "2021-01-03",
+        "rank": 5,
+        "rank_last_week": 2,
+        "weeks_on_list": 39,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/dp/0316453692?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "0316453692",
+            "isbn13": "9780316453691"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "STAMPED",
+            "description": "An exploration of racism and antiracism in America.",
+            "contributor": "by Jason Reynolds and Ibram X. Kendi",
+            "author": "Jason Reynolds and Ibram X. Kendi",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Little, Brown",
+            "primary_isbn13": "9780316453691",
+            "primary_isbn10": "0316453692"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2020-12-19",
+        "published_date": "2021-01-03",
+        "rank": 6,
+        "rank_last_week": 8,
+        "weeks_on_list": 9,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Avatar-Last-Airbender-Kyoshi-Novels/dp/1419735047?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1419739913",
+            "isbn13": "9781419739910"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "AVATAR, THE LAST AIRBENDER: THE RISE OF KYOSHI",
+            "description": "Kyoshi flees with her friend Rangi after she discovers her airbending powers.",
+            "contributor": "by F.C. Yee with Michael Dante DiMartino",
+            "author": "FC Yee with Michael Dante DiMartino",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Amulet",
+            "primary_isbn13": "9781419735042",
+            "primary_isbn10": "1419735047"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2020-12-19",
+        "published_date": "2021-01-03",
+        "rank": 7,
+        "rank_last_week": 5,
+        "weeks_on_list": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/dp/6073199880?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1419752324",
+            "isbn13": "9781419752322"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "ESSENTIALLY CHARLI",
+            "description": "The TikTok personality shares the intimate details of her life.",
+            "contributor": "by Charli D’Amelio",
+            "author": "Charli D’Amelio",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Amulet",
+            "primary_isbn13": "9781419752322",
+            "primary_isbn10": "1419752324"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2020-12-19",
+        "published_date": "2021-01-03",
+        "rank": 8,
+        "rank_last_week": 0,
+        "weeks_on_list": 26,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Good-Girls-Guide-Murder/dp/1984896369?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1984896377",
+            "isbn13": "9781984896377"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "A GOOD GIRL'S GUIDE TO MURDER",
+            "description": "While trying to solve a murder-suicide case for her senior project, Pip now finds her life in jeopardy.",
+            "contributor": "by Holly Jackson",
+            "author": "Holly Jackson",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Delacorte",
+            "primary_isbn13": "9781984896360",
+            "primary_isbn10": "1984896369"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2020-12-19",
+        "published_date": "2021-01-03",
+        "rank": 9,
+        "rank_last_week": 9,
+        "weeks_on_list": 126,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Children-Blood-Bone-Legacy-Orisha/dp/1250170974?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1250170974",
+            "isbn13": "9781250170972"
+          },
+          {
+            "isbn10": "1432864092",
+            "isbn13": "9781432864095"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "CHILDREN OF BLOOD AND BONE",
+            "description": "Zélie fights to restore magic to the land of Orïsha.",
+            "contributor": "by Tomi Adeyemi",
+            "author": "Tomi Adeyemi",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Holt",
+            "primary_isbn13": "9781250170972",
+            "primary_isbn10": "1250170974"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2020-12-19",
+        "published_date": "2021-01-03",
+        "rank": 10,
+        "rank_last_week": 6,
+        "weeks_on_list": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/dp/1536217018?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1536217018",
+            "isbn13": "9781536217018"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "THE BLACK FRIEND",
+            "description": "An essential guide to the movement toward antiracism.",
+            "contributor": "by Frederick Joseph",
+            "author": "Frederick Joseph",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Candlewick",
+            "primary_isbn13": "9781536217018",
+            "primary_isbn10": "1536217018"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      }
+    ]
+  }

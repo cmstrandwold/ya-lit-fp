@@ -25,8 +25,8 @@ class Header extends HTMLElement {
             '            <li class="nav-item' + (pagename === "Data" ? ' active">' : '">')
             + '<a class="nav-link" href="data.html">Data</a>\n' +
             '            </li>\n' +
-            '            <li class="nav-item' + (pagename === "Data Analysis" ? ' active">' : '">') +
-            '              <a class="nav-link" href="data_analysis.html">Data Analysis and Visualization</a>\n' +
+            '            <li class="nav-item' + (pagename === "Process and Works Cited" ? ' active">' : '">') +
+            '              <a class="nav-link" href="data_analysis.html">Process and Works Cited</a>\n' +
             '            </li>\n' +
             '            <li class="nav-item' + (pagename === "Research" ? ' active">' : '">') +
             '              <a class="nav-link" href="conclusion.html">Research</a>\n' +

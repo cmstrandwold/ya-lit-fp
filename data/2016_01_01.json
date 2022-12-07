@@ -1,0 +1,491 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+    "num_results": 10,
+    "last_modified": "2019-08-29T20:54:03-04:00",
+    "results": [
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2015-12-19",
+        "published_date": "2016-01-03",
+        "rank": 1,
+        "rank_last_week": 0,
+        "weeks_on_list": 10,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Amazing-Book-Not-Fire-ebook/dp/B00X63WJX4?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1101939842",
+            "isbn13": "9781101939840"
+          },
+          {
+            "isbn10": "1101939850",
+            "isbn13": "9781101939857"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "THE AMAZING BOOK IS NOT ON FIRE",
+            "description": "YouTube stars offer comedy and advice.",
+            "contributor": "by Dan Howell and Phil Lester",
+            "author": "Dan Howell and Phil Lester",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Random House",
+            "primary_isbn13": "9781101939840",
+            "primary_isbn10": "1101939842"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2015-12-19",
+        "published_date": "2016-01-03",
+        "rank": 2,
+        "rank_last_week": 0,
+        "weeks_on_list": 18,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Red-Queen-Victoria-Aveyard/dp/0062310631?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1481533118",
+            "isbn13": "9781481533119"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "RED QUEEN",
+            "description": "A girl with a special power lives in a kingdom divided between an underclass with red blood and an elite with silver.",
+            "contributor": "by Victoria Aveyard",
+            "author": "Victoria Aveyard",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "HarperTeen",
+            "primary_isbn13": "9780062310637",
+            "primary_isbn10": "0062310631"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2015-12-19",
+        "published_date": "2016-01-03",
+        "rank": 3,
+        "rank_last_week": 0,
+        "weeks_on_list": 17,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Eleanor-Park-Rainbow-Rowell/dp/1250012570?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1250031214",
+            "isbn13": "9781250031211"
+          },
+          {
+            "isbn10": "1250012570",
+            "isbn13": "9781250012579"
+          },
+          {
+            "isbn10": "1250044995",
+            "isbn13": "9781250044990"
+          },
+          {
+            "isbn10": "6071128641",
+            "isbn13": "9786071128645"
+          },
+          {
+            "isbn10": "1250098785",
+            "isbn13": "9781250098788"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "ELEANOR AND PARK",
+            "description": "The world opposes the love of two outcast teenagers.",
+            "contributor": "by Rainbow Rowell",
+            "author": "Rainbow Rowell",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "St. Martin's Griffin",
+            "primary_isbn13": "9781250012579",
+            "primary_isbn10": "1250012570"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "https://www.nytimes.com/2013/03/10/books/review/eleanor-park-by-rainbow-rowell.html",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2015-12-19",
+        "published_date": "2016-01-03",
+        "rank": 4,
+        "rank_last_week": 0,
+        "weeks_on_list": 11,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Six-Crows-Leigh-Bardugo/dp/1627792120?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1627792120",
+            "isbn13": "9781627792127"
+          },
+          {
+            "isbn10": "1627795227",
+            "isbn13": "9781627795227"
+          },
+          {
+            "isbn10": "1511343524",
+            "isbn13": "9781511343527"
+          },
+          {
+            "isbn10": "125007696X",
+            "isbn13": "9781250076960"
+          },
+          {
+            "isbn10": "1250777909",
+            "isbn13": "9781250777904"
+          },
+          {
+            "isbn10": "162779509X",
+            "isbn13": "9781627795098"
+          },
+          {
+            "isbn10": "1432896938",
+            "isbn13": "9781432896935"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "SIX OF CROWS",
+            "description": "A criminal prodigy assembles a fractious team to pull off a life-changing heist.",
+            "contributor": "by Leigh Bardugo",
+            "author": "Leigh Bardugo",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Holt",
+            "primary_isbn13": "9781627792127",
+            "primary_isbn10": "1627792120"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2015-12-19",
+        "published_date": "2016-01-03",
+        "rank": 5,
+        "rank_last_week": 0,
+        "weeks_on_list": 11,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Carry-On-Rainbow-Rowell/dp/1250049555?tag=NYTBSREV-20",
+        "isbns": [],
+        "book_details": [
+          {
+            "title": "CARRY ON",
+            "description": "A teenage wizard and his classmates return to their magical academy.",
+            "contributor": "by Rainbow Rowell",
+            "author": "Rainbow Rowell",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "St. Martin's Griffin",
+            "primary_isbn13": "9781250049551",
+            "primary_isbn10": "1250049555"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2015-12-19",
+        "published_date": "2016-01-03",
+        "rank": 6,
+        "rank_last_week": 0,
+        "weeks_on_list": 18,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Fangirl-A-Novel-Rainbow-Rowell/dp/1250073804?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "125003096X",
+            "isbn13": "9781250030962"
+          },
+          {
+            "isbn10": "1250030951",
+            "isbn13": "9781250030955"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "FANGIRL",
+            "description": "Cath, a writer of fan fiction, struggles during her freshman year at college.",
+            "contributor": "by Rainbow Rowell",
+            "author": "Rainbow Rowell",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "St. Martin's Griffin",
+            "primary_isbn13": "9781250073808",
+            "primary_isbn10": "None"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2015-12-19",
+        "published_date": "2016-01-03",
+        "rank": 7,
+        "rank_last_week": 0,
+        "weeks_on_list": 15,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Everything-Nicola-Yoon/dp/0553496646?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "0553496646",
+            "isbn13": "9780553496642"
+          },
+          {
+            "isbn10": "0553496654",
+            "isbn13": "9780553496659"
+          },
+          {
+            "isbn10": "0553496662",
+            "isbn13": "9780553496666"
+          },
+          {
+            "isbn10": "1524769800",
+            "isbn13": "9781524769802"
+          },
+          {
+            "isbn10": "0553496670",
+            "isbn13": "9780553496673"
+          },
+          {
+            "isbn10": "1524769606",
+            "isbn13": "9781524769604"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "EVERYTHING, EVERYTHING",
+            "description": "For a girl living in a bubble, an online friendship becomes something more.",
+            "contributor": "by Nicola Yoon",
+            "author": "Nicola Yoon",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Delacorte",
+            "primary_isbn13": "9780553496642",
+            "primary_isbn10": "0553496646"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2015-12-19",
+        "published_date": "2016-01-03",
+        "rank": 8,
+        "rank_last_week": 0,
+        "weeks_on_list": 9,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Illuminae-The-Files-Amie-Kaufman/dp/0553499114?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "0553499122",
+            "isbn13": "9780553499124"
+          },
+          {
+            "isbn10": "0553499130",
+            "isbn13": "9780553499131"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "ILLUMINAE",
+            "description": "Documents chart the aftermath of a mining-colony attack.",
+            "contributor": "by Amie Kaufman and Jay Kristoff",
+            "author": "Amie Kaufman and Jay Kristoff",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Knopf",
+            "primary_isbn13": "9780553499117",
+            "primary_isbn10": "0553499114"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2015-12-19",
+        "published_date": "2016-01-03",
+        "rank": 9,
+        "rank_last_week": 0,
+        "weeks_on_list": 8,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/We-All-Looked-Tommy-Wallach/dp/1481418777?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1481418777",
+            "isbn13": "9781481418775"
+          },
+          {
+            "isbn10": "1481418785",
+            "isbn13": "9781481418782"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "WE ALL LOOKED UP",
+            "description": "An asteroid disrupts the lives of a group of high school seniors.",
+            "contributor": "by Tommy Wallach",
+            "author": "Tommy Wallach",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Simon & Schuster",
+            "primary_isbn13": "9781481418775",
+            "primary_isbn10": "1481418777"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2015-12-19",
+        "published_date": "2016-01-03",
+        "rank": 10,
+        "rank_last_week": 0,
+        "weeks_on_list": 12,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/All-Bright-Places-Jennifer-Niven/dp/0385755880?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "0385755880",
+            "isbn13": "9780385755887"
+          },
+          {
+            "isbn10": "0385755902",
+            "isbn13": "9780385755900"
+          },
+          {
+            "isbn10": "0385755910",
+            "isbn13": "9780385755917"
+          },
+          {
+            "isbn10": "0593118928",
+            "isbn13": "9780593118924"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "ALL THE BRIGHT PLACES",
+            "description": "An outsider helps a classmate recover from her sister’s death.",
+            "contributor": "by Jennifer Niven",
+            "author": "Jennifer Niven",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Knopf",
+            "primary_isbn13": "9780385755887",
+            "primary_isbn10": "0385755880"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "https://www.nytimes.com/2015/01/18/books/review/jennifer-nivens-all-the-bright-places.html",
+            "article_chapter_link": ""
+          }
+        ]
+      }
+    ]
+  }

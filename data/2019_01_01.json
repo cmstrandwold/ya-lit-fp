@@ -1,0 +1,466 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+    "num_results": 10,
+    "last_modified": "2019-08-29T20:54:03-04:00",
+    "results": [
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2018-12-22",
+        "published_date": "2019-01-06",
+        "rank": 1,
+        "rank_last_week": 1,
+        "weeks_on_list": 95,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Hate-U-Give-Angie-Thomas/dp/0062498533?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "0062498533",
+            "isbn13": "9780062498533"
+          },
+          {
+            "isbn10": "1432841696",
+            "isbn13": "9781432841690"
+          },
+          {
+            "isbn10": "0062871358",
+            "isbn13": "9780062871350"
+          },
+          {
+            "isbn10": "0062872346",
+            "isbn13": "9780062872340"
+          },
+          {
+            "isbn10": "0062498541",
+            "isbn13": "9780062498540"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "THE HATE U GIVE",
+            "description": "A 16-year-old girl sees a police officer kill her friend.",
+            "contributor": "by Angie Thomas",
+            "author": "Angie Thomas",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Balzer & Bray",
+            "primary_isbn13": "9780062498533",
+            "primary_isbn10": "0062498533"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2018-12-22",
+        "published_date": "2019-01-06",
+        "rank": 2,
+        "rank_last_week": 2,
+        "weeks_on_list": 11,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Dear-Evan-Hansen-Val-Emmich/dp/0316420239?tag=NYTBSREV-20",
+        "isbns": [],
+        "book_details": [
+          {
+            "title": "DEAR EVAN HANSEN: THE NOVEL",
+            "description": "When one of Evan's letters to himself is accidentally found on a suicide victim, the victim's family assumes that he was a close friend.",
+            "contributor": "by Val Emmich with Steven Levenson, Benj Pasek & Justin Paul",
+            "author": "Val Emmich with Steven Levenson, Benj Pasek & Justin Paul",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Poppy",
+            "primary_isbn13": "9780316420235",
+            "primary_isbn10": "None"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2018-12-22",
+        "published_date": "2019-01-06",
+        "rank": 3,
+        "rank_last_week": 5,
+        "weeks_on_list": 11,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Bridge-Clay-Markus-Zusak/dp/1984830155?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1984830155",
+            "isbn13": "9781984830159"
+          },
+          {
+            "isbn10": "0375845593",
+            "isbn13": "9780375845598"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "BRIDGE OF CLAY",
+            "description": "The family saga of the Dunbar brothers.",
+            "contributor": "by Markus Zusak",
+            "author": "Markus Zusak",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Knopf",
+            "primary_isbn13": "9781984830159",
+            "primary_isbn10": "1984830155"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2018-12-22",
+        "published_date": "2019-01-06",
+        "rank": 4,
+        "rank_last_week": 3,
+        "weeks_on_list": 42,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Children-Blood-Bone-Legacy-Orisha/dp/1250170974?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1250170974",
+            "isbn13": "9781250170972"
+          },
+          {
+            "isbn10": "1432864092",
+            "isbn13": "9781432864095"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "CHILDREN OF BLOOD AND BONE",
+            "description": "Zélie fights to restore magic to the land of Orïsha.",
+            "contributor": "by Tomi Adeyemi",
+            "author": "Tomi Adeyemi",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Holt",
+            "primary_isbn13": "9781250170972",
+            "primary_isbn10": "1250170974"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2018-12-22",
+        "published_date": "2019-01-06",
+        "rank": 5,
+        "rank_last_week": 4,
+        "weeks_on_list": 70,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/One-Us-Lying-Karen-McManus/dp/1524714682?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1524714682",
+            "isbn13": "9781524714680"
+          },
+          {
+            "isbn10": "1524714690",
+            "isbn13": "9781524714697"
+          },
+          {
+            "isbn10": "1432876856",
+            "isbn13": "9781432876852"
+          },
+          {
+            "isbn10": "0593565371",
+            "isbn13": "9780593565377"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "ONE OF US IS LYING",
+            "description": "For five students, a detour into detention ends in murder.",
+            "contributor": "by Karen M. McManus",
+            "author": "Karen M. McManus",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Delacorte",
+            "primary_isbn13": "9781524714680",
+            "primary_isbn10": "1524714682"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2018-12-22",
+        "published_date": "2019-01-06",
+        "rank": 6,
+        "rank_last_week": 0,
+        "weeks_on_list": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Skyward-Brandon-Sanderson/dp/0399555773?tag=NYTBSREV-20",
+        "isbns": [],
+        "book_details": [
+          {
+            "title": "SKYWARD",
+            "description": "A young girl wants to become a fighter pilot, but will her father's reputation stand in the way?",
+            "contributor": "by Brandon Sanderson",
+            "author": "Brandon Sanderson",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Delacorte",
+            "primary_isbn13": "9780399555770",
+            "primary_isbn10": "0399555773"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2018-12-22",
+        "published_date": "2019-01-06",
+        "rank": 7,
+        "rank_last_week": 6,
+        "weeks_on_list": 61,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Turtles-All-Down-John-Green/dp/0525555366?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "0525555366",
+            "isbn13": "9780525555360"
+          },
+          {
+            "isbn10": "0525555382",
+            "isbn13": "9780525555384"
+          },
+          {
+            "isbn10": "0525555374",
+            "isbn13": "9780525555377"
+          },
+          {
+            "isbn10": "0525555358",
+            "isbn13": "9780525555353"
+          },
+          {
+            "isbn10": "0525563091",
+            "isbn13": "9780525563099"
+          },
+          {
+            "isbn10": "0525591028",
+            "isbn13": "9780525591023"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "TURTLES ALL THE WAY DOWN",
+            "description": "Aza and Daisy investigate a mystery with a reward of $100,000.",
+            "contributor": "by John Green",
+            "author": "John Green",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Dutton",
+            "primary_isbn13": "9780525555360",
+            "primary_isbn10": "0525555366"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2018-12-22",
+        "published_date": "2019-01-06",
+        "rank": 8,
+        "rank_last_week": 8,
+        "weeks_on_list": 11,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/What-If-Its-Becky-Albertalli/dp/0062795252?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "0062795252",
+            "isbn13": "9780062795250"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "WHAT IF IT'S US",
+            "description": "Arthur and Ben meet-cute at the post office, but what will become of them?",
+            "contributor": "by Becky Albertalli and Adam Silvera",
+            "author": "Becky Albertalli and Adam Silvera",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Balzer & Bray",
+            "primary_isbn13": "9780062795250",
+            "primary_isbn10": "0062795252"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2018-12-22",
+        "published_date": "2019-01-06",
+        "rank": 9,
+        "rank_last_week": 0,
+        "weeks_on_list": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Five-Feet-Apart-Rachael-Lippincott/dp/1534437339?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1534437339",
+            "isbn13": "9781534437333"
+          },
+          {
+            "isbn10": "1534451560",
+            "isbn13": "9781534451568"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "FIVE FEET APART",
+            "description": "Stella and Will are in love, but they can't get within five feet of each other.",
+            "contributor": "by Rachael Lippincott with Mikki Daughtry and Tobias Iaconis",
+            "author": "Rachael Lippincott with Mikki Daughtry and Tobias Iaconis",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Simon & Schuster",
+            "primary_isbn13": "9781534437333",
+            "primary_isbn10": "1534437339"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2018-12-22",
+        "published_date": "2019-01-06",
+        "rank": 10,
+        "rank_last_week": 7,
+        "weeks_on_list": 7,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Girls-Paper-Fire-Natasha-Ngan/dp/0316561363?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "0316561363",
+            "isbn13": "9780316561365"
+          },
+          {
+            "isbn10": "0316530409",
+            "isbn13": "9780316530408"
+          },
+          {
+            "isbn10": "0316561355",
+            "isbn13": "9780316561358"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "GIRLS OF PAPER AND FIRE",
+            "description": "Lei is forced to be a concubine for the king in the Hidden Palace.",
+            "contributor": "by Natasha Ngan",
+            "author": "Natasha Ngan",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "jimmy patterson",
+            "primary_isbn13": "9780316561365",
+            "primary_isbn10": "0316561363"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,450 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+    "num_results": 10,
+    "last_modified": "2019-08-29T20:54:03-04:00",
+    "results": [
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2017-12-23",
+        "published_date": "2018-01-07",
+        "rank": 1,
+        "rank_last_week": 1,
+        "weeks_on_list": 11,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Turtles-All-Down-John-Green/dp/0525555366?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "0525555366",
+            "isbn13": "9780525555360"
+          },
+          {
+            "isbn10": "0525555382",
+            "isbn13": "9780525555384"
+          },
+          {
+            "isbn10": "0525555374",
+            "isbn13": "9780525555377"
+          },
+          {
+            "isbn10": "0525555358",
+            "isbn13": "9780525555353"
+          },
+          {
+            "isbn10": "0525563091",
+            "isbn13": "9780525563099"
+          },
+          {
+            "isbn10": "0525591028",
+            "isbn13": "9780525591023"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "TURTLES ALL THE WAY DOWN",
+            "description": "Aza and Daisy investigate a mystery with a reward of $100,000.",
+            "contributor": "by John Green",
+            "author": "John Green",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Dutton",
+            "primary_isbn13": "9780525555360",
+            "primary_isbn10": "0525555366"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2017-12-23",
+        "published_date": "2018-01-07",
+        "rank": 2,
+        "rank_last_week": 2,
+        "weeks_on_list": 43,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Hate-U-Give-Angie-Thomas/dp/0062498533?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "0062498533",
+            "isbn13": "9780062498533"
+          },
+          {
+            "isbn10": "1432841696",
+            "isbn13": "9781432841690"
+          },
+          {
+            "isbn10": "0062871358",
+            "isbn13": "9780062871350"
+          },
+          {
+            "isbn10": "0062872346",
+            "isbn13": "9780062872340"
+          },
+          {
+            "isbn10": "0062498541",
+            "isbn13": "9780062498540"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "THE HATE U GIVE",
+            "description": "A 16-year-old girl sees a police officer kill her friend.",
+            "contributor": "by Angie Thomas",
+            "author": "Angie Thomas",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Balzer & Bray",
+            "primary_isbn13": "9780062498533",
+            "primary_isbn10": "0062498533"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2017-12-23",
+        "published_date": "2018-01-07",
+        "rank": 3,
+        "rank_last_week": 4,
+        "weeks_on_list": 26,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/One-Us-Lying-Karen-McManus/dp/1524714682?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1524714682",
+            "isbn13": "9781524714680"
+          },
+          {
+            "isbn10": "1524714690",
+            "isbn13": "9781524714697"
+          },
+          {
+            "isbn10": "1432876856",
+            "isbn13": "9781432876852"
+          },
+          {
+            "isbn10": "0593565371",
+            "isbn13": "9780593565377"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "ONE OF US IS LYING",
+            "description": "For five students, a detour into detention ends in murder.",
+            "contributor": "by Karen M. McManus",
+            "author": "Karen M. McManus",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Delacorte",
+            "primary_isbn13": "9781524714680",
+            "primary_isbn10": "1524714682"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2017-12-23",
+        "published_date": "2018-01-07",
+        "rank": 4,
+        "rank_last_week": 3,
+        "weeks_on_list": 10,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Book-Dust-Belle-Sauvage/dp/0375815309?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "0375815309",
+            "isbn13": "9780375815300"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "THE BOOK OF DUST: LA BELLE SAUVAGE",
+            "description": "Malcolm finds a secret message about a substance known as Dust in the first volume of a trilogy that starts before the beginning of \"His Dark Materials.\"",
+            "contributor": "by Philip Pullman",
+            "author": "Philip Pullman",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Knopf",
+            "primary_isbn13": "9780375815300",
+            "primary_isbn10": "0375815309"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2017-12-23",
+        "published_date": "2018-01-07",
+        "rank": 5,
+        "rank_last_week": 5,
+        "weeks_on_list": 7,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Renegades-Marissa-Meyer/dp/1250044669?tag=NYTBSREV-20",
+        "isbns": [],
+        "book_details": [
+          {
+            "title": "RENEGADES",
+            "description": "Teams of superbeings, the Renegades and the Anarchists, clash for control of Gatlon City.",
+            "contributor": "by Marissa Meyer",
+            "author": "Marissa Meyer",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Feiwel and Friends",
+            "primary_isbn13": "9781250044662",
+            "primary_isbn10": "1250044669"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2017-12-23",
+        "published_date": "2018-01-07",
+        "rank": 6,
+        "rank_last_week": 7,
+        "weeks_on_list": 15,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Wonder-Woman-Warbringer-DC-Icons/dp/0399549730?tag=NYTBSREV-20",
+        "isbns": [],
+        "book_details": [
+          {
+            "title": "WONDER WOMAN: WARBRINGER",
+            "description": "Diana, Princess of the Amazons, saves a descendant of Helen of Troy and together they fight to save both of their worlds.",
+            "contributor": "by Leigh Bardugo",
+            "author": "Leigh Bardugo",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Random House",
+            "primary_isbn13": "9780399549731",
+            "primary_isbn10": "0399549730"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2017-12-23",
+        "published_date": "2018-01-07",
+        "rank": 7,
+        "rank_last_week": 6,
+        "weeks_on_list": 14,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Warcross-Marie-Lu/dp/0399547967?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "0399547967",
+            "isbn13": "9780399547966"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "WARCROSS",
+            "description": "When a New York bounty hunter's identity is exposed in a game's glitch, she's hired to track down a hacker in Tokyo.",
+            "contributor": "by Marie Lu",
+            "author": "Marie Lu",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Putnam",
+            "primary_isbn13": "9780399547966",
+            "primary_isbn10": "0399547967"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2017-12-23",
+        "published_date": "2018-01-07",
+        "rank": 8,
+        "rank_last_week": 9,
+        "weeks_on_list": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Fierce-Competing-Myself-Changed-Everything/dp/0316472700?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "0316472700",
+            "isbn13": "9780316472708"
+          },
+          {
+            "isbn10": "0316472670",
+            "isbn13": "9780316472678"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "FIERCE",
+            "description": "The Olympic gold medalist in gymnastics tells her story of rising above life's challenges.",
+            "contributor": "by Aly Raisman",
+            "author": "Aly Raisman",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Little, Brown",
+            "primary_isbn13": "9780316472708",
+            "primary_isbn10": "0316472700"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2017-12-23",
+        "published_date": "2018-01-07",
+        "rank": 9,
+        "rank_last_week": 10,
+        "weeks_on_list": 12,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Language-Thorns-Midnight-Tales-Dangerous/dp/125012252X?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "125012252X",
+            "isbn13": "9781250122520"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "THE LANGUAGE OF THORNS",
+            "description": "A collection of otherworldly fairy tales.",
+            "contributor": "by Leigh Bardugo. Illustrated by Sara Kipin",
+            "author": "Leigh Bardugo",
+            "contributor_note": "Illustrated by Sara Kipin",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Imprint",
+            "primary_isbn13": "9781250122520",
+            "primary_isbn10": "125012252X"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2017-12-23",
+        "published_date": "2018-01-07",
+        "rank": 10,
+        "rank_last_week": 8,
+        "weeks_on_list": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Far-Tree-Robin-Benway/dp/0062330624?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "0062330624",
+            "isbn13": "9780062330628"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "FAR FROM THE TREE",
+            "description": "Three siblings separated in infancy find each other as teenagers.",
+            "contributor": "by Robin Benway",
+            "author": "Robin Benway",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "HarperTeen",
+            "primary_isbn13": "9780062330628",
+            "primary_isbn10": "0062330624"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      }
+    ]
+  }

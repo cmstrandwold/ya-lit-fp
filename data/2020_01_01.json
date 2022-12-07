@@ -1,0 +1,443 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+    "num_results": 10,
+    "last_modified": "2019-12-25T23:38:01-05:00",
+    "results": [
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2019-12-21",
+        "published_date": "2020-01-05",
+        "rank": 1,
+        "rank_last_week": 1,
+        "weeks_on_list": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Children-Virtue-Vengeance-Legacy-Orisha/dp/1250170990?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1250170990",
+            "isbn13": "9781250170996"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "CHILDREN OF VIRTUE AND VENGEANCE",
+            "description": "Zélie must stop the threat of civil war in Orïsha.",
+            "contributor": "by Tomi Adeyemi",
+            "author": "Tomi Adeyemi",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Holt",
+            "primary_isbn13": "9781250170996",
+            "primary_isbn10": "1250170990"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2019-12-21",
+        "published_date": "2020-01-05",
+        "rank": 2,
+        "rank_last_week": 2,
+        "weeks_on_list": 100,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/One-Us-Lying-Karen-McManus/dp/1524714682?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1524714682",
+            "isbn13": "9781524714680"
+          },
+          {
+            "isbn10": "1524714690",
+            "isbn13": "9781524714697"
+          },
+          {
+            "isbn10": "1432876856",
+            "isbn13": "9781432876852"
+          },
+          {
+            "isbn10": "0593565371",
+            "isbn13": "9780593565377"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "ONE OF US IS LYING",
+            "description": "For five students, a detour into detention ends in murder.",
+            "contributor": "by Karen M. McManus",
+            "author": "Karen M. McManus",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Delacorte",
+            "primary_isbn13": "9781524714680",
+            "primary_isbn10": "1524714682"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2019-12-21",
+        "published_date": "2020-01-05",
+        "rank": 3,
+        "rank_last_week": 3,
+        "weeks_on_list": 94,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Children-Blood-Bone-Legacy-Orisha/dp/1250170974?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1250170974",
+            "isbn13": "9781250170972"
+          },
+          {
+            "isbn10": "1432864092",
+            "isbn13": "9781432864095"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "CHILDREN OF BLOOD AND BONE",
+            "description": "Zélie fights to restore magic to the land of Orïsha.",
+            "contributor": "by Tomi Adeyemi",
+            "author": "Tomi Adeyemi",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Holt",
+            "primary_isbn13": "9781250170972",
+            "primary_isbn10": "1250170974"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2019-12-21",
+        "published_date": "2020-01-05",
+        "rank": 4,
+        "rank_last_week": 4,
+        "weeks_on_list": 55,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Five-Feet-Apart-Rachael-Lippincott/dp/1534437339?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1534437339",
+            "isbn13": "9781534437333"
+          },
+          {
+            "isbn10": "1534451560",
+            "isbn13": "9781534451568"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "FIVE FEET APART",
+            "description": "Stella and Will are in love, but they can't get within five feet of each other.",
+            "contributor": "by Rachael Lippincott with Mikki Daughtry and Tobias Iaconis",
+            "author": "Rachael Lippincott with Mikki Daughtry and Tobias Iaconis",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Simon & Schuster",
+            "primary_isbn13": "9781534437333",
+            "primary_isbn10": "1534437339"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2019-12-21",
+        "published_date": "2020-01-05",
+        "rank": 5,
+        "rank_last_week": 5,
+        "weeks_on_list": 147,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Hate-U-Give-Angie-Thomas/dp/0062498533?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "0062498533",
+            "isbn13": "9780062498533"
+          },
+          {
+            "isbn10": "1432841696",
+            "isbn13": "9781432841690"
+          },
+          {
+            "isbn10": "0062871358",
+            "isbn13": "9780062871350"
+          },
+          {
+            "isbn10": "0062872346",
+            "isbn13": "9780062872340"
+          },
+          {
+            "isbn10": "0062498541",
+            "isbn13": "9780062498540"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "THE HATE U GIVE",
+            "description": "A 16-year-old girl sees a police officer kill her friend.",
+            "contributor": "by Angie Thomas",
+            "author": "Angie Thomas",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Balzer + Bray",
+            "primary_isbn13": "9780062498533",
+            "primary_isbn10": "0062498533"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2019-12-21",
+        "published_date": "2020-01-05",
+        "rank": 6,
+        "rank_last_week": 6,
+        "weeks_on_list": 12,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Fountains-Silence-Ruta-Sepetys/dp/0399160310?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "0399160310",
+            "isbn13": "9780399160318"
+          },
+          {
+            "isbn10": "0142423637",
+            "isbn13": "9780142423639"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "THE FOUNTAINS OF SILENCE",
+            "description": "During the fascist rule of Spain, Ana and Daniel's romance blooms amid the turmoil.",
+            "contributor": "by Ruta Sepetys",
+            "author": "Ruta Sepetys",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Philomel",
+            "primary_isbn13": "9780399160318",
+            "primary_isbn10": "0399160310"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2019-12-21",
+        "published_date": "2020-01-05",
+        "rank": 7,
+        "rank_last_week": 0,
+        "weeks_on_list": 39,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Dear-Evan-Hansen-Val-Emmich/dp/0316420239?tag=NYTBSREV-20",
+        "isbns": [],
+        "book_details": [
+          {
+            "title": "DEAR EVAN HANSEN: THE NOVEL",
+            "description": "When one of Evan's letters to himself is accidentally found on a suicide victim, the victim's family assumes that he was a close friend.",
+            "contributor": "by Val Emmich with Steven Levenson, Benj Pasek & Justin Paul",
+            "author": "Val Emmich with Steven Levenson, Benj Pasek & Justin Paul",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Poppy",
+            "primary_isbn13": "9780316420235",
+            "primary_isbn10": "None"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2019-12-21",
+        "published_date": "2020-01-05",
+        "rank": 8,
+        "rank_last_week": 0,
+        "weeks_on_list": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Loki-Where-Mischief-Mackenzi-Lee/dp/136802226X?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "136802226X",
+            "isbn13": "9781368022262"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "LOKI: WHERE MISCHIEF LIES",
+            "description": "Loki is sent to Earth to investigate a string of murders that used Asgardian magic.",
+            "contributor": "by Mackenzi Lee",
+            "author": "Mackenzi Lee",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Marvel",
+            "primary_isbn13": "9781368022262",
+            "primary_isbn10": "136802226X"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2019-12-21",
+        "published_date": "2020-01-05",
+        "rank": 9,
+        "rank_last_week": 8,
+        "weeks_on_list": 11,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Book-Dust-Secret-Commonwealth/dp/0553510665?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "0553510665",
+            "isbn13": "9780553510669"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "THE SECRET COMMONWEALTH",
+            "description": "Lyra Silvertongue's adventures begin again as she searches for a refuge for separated daemons.",
+            "contributor": "by Philip Pullman",
+            "author": "Philip Pullman",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Knopf",
+            "primary_isbn13": "9780553510669",
+            "primary_isbn10": "0553510665"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2019-12-21",
+        "published_date": "2020-01-05",
+        "rank": 10,
+        "rank_last_week": 9,
+        "weeks_on_list": 12,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Wayward-Simon-Snow-Rainbow-Rowell/dp/1250146070?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1432872117",
+            "isbn13": "9781432872113"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "WAYWARD SON",
+            "description": "Simon, Penny and Baz head to America where they find trouble.",
+            "contributor": "by Rainbow Rowell",
+            "author": "Rainbow Rowell",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Wednesday",
+            "primary_isbn13": "9781250146076",
+            "primary_isbn10": "1250146070"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      }
+    ]
+  }

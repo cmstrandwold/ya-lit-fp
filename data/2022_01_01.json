@@ -1,0 +1,419 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+    "num_results": 10,
+    "last_modified": "2021-12-23T17:11:56-05:00",
+    "results": [
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2021-12-18",
+        "published_date": "2022-01-02",
+        "rank": 1,
+        "rank_last_week": 1,
+        "weeks_on_list": 203,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/One-Us-Lying-Karen-McManus/dp/1524714682?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1524714682",
+            "isbn13": "9781524714680"
+          },
+          {
+            "isbn10": "1524714690",
+            "isbn13": "9781524714697"
+          },
+          {
+            "isbn10": "1432876856",
+            "isbn13": "9781432876852"
+          },
+          {
+            "isbn10": "0593565371",
+            "isbn13": "9780593565377"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "ONE OF US IS LYING",
+            "description": "For five students, a detour into detention ends in murder.",
+            "contributor": "by Karen M. McManus",
+            "author": "Karen M. McManus",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Delacorte",
+            "primary_isbn13": "9781524714680",
+            "primary_isbn10": "1524714682"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2021-12-18",
+        "published_date": "2022-01-02",
+        "rank": 2,
+        "rank_last_week": 5,
+        "weeks_on_list": 25,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/dp/1250766567?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1250766567",
+            "isbn13": "9781250766564"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "FIREKEEPER'S DAUGHTER",
+            "description": "Daunis investigates a deadly new drug being distributed in her tribal community.",
+            "contributor": "by Angeline Boulley",
+            "author": "Angeline Boulley",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Holt",
+            "primary_isbn13": "9781250766564",
+            "primary_isbn10": "1250766567"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2021-12-18",
+        "published_date": "2022-01-02",
+        "rank": 3,
+        "rank_last_week": 2,
+        "weeks_on_list": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/dp/0593175867?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "0593175867",
+            "isbn13": "9780593175866"
+          },
+          {
+            "isbn10": "0593175883",
+            "isbn13": "9780593175880"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "YOU'LL BE THE DEATH OF ME",
+            "description": "Three friends skip school together and become involved in a murder.",
+            "contributor": "by Karen M. McManus",
+            "author": "Karen M. McManus",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Delacorte",
+            "primary_isbn13": "9780593175866",
+            "primary_isbn10": "0593175867"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2021-12-18",
+        "published_date": "2022-01-02",
+        "rank": 4,
+        "rank_last_week": 4,
+        "weeks_on_list": 30,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/dp/1534457690?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1534457690",
+            "isbn13": "9781534457690"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "THESE VIOLENT DELIGHTS",
+            "description": "A reimagining of Romeo and Juliet set in 1920s Shanghai.",
+            "contributor": "by Chloe Gong",
+            "author": "Chloe Gong",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Margaret K. McElderry",
+            "primary_isbn13": "9781534457690",
+            "primary_isbn10": "1534457690"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2021-12-18",
+        "published_date": "2022-01-02",
+        "rank": 5,
+        "rank_last_week": 10,
+        "weeks_on_list": 11,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/dp/0735269939?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "0735269939",
+            "isbn13": "9780735269934"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "IRON WIDOW",
+            "description": "Zetian becomes a Chrysalises pilot to battle the Hunduns, but has an ulterior motive.",
+            "contributor": "by Xiran Jay Zhao",
+            "author": "Xiran Jay Zhao",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Penguin Teen",
+            "primary_isbn13": "9780735269934",
+            "primary_isbn10": "0735269939"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2021-12-18",
+        "published_date": "2022-01-02",
+        "rank": 6,
+        "rank_last_week": 3,
+        "weeks_on_list": 37,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/dp/1484778200?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1484778200",
+            "isbn13": "9781484778203"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "LORE",
+            "description": "To get revenge for her family’s murder, Lore must re-enter a hunt know as the Agon.",
+            "contributor": "by Alexandra Bracken",
+            "author": "Alexandra Bracken",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Disney-Hyperion",
+            "primary_isbn13": "9781484778203",
+            "primary_isbn10": "1484778200"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2021-12-18",
+        "published_date": "2022-01-02",
+        "rank": 7,
+        "rank_last_week": 7,
+        "weeks_on_list": 15,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/dp/0759557632?tag=NYTBSREV-20",
+        "isbns": [],
+        "book_details": [
+          {
+            "title": "THE HAWTHORNE LEGACY",
+            "description": "Avery and the four Hawthorne grandsons have a new family puzzle to solve.",
+            "contributor": "by Jennifer Lynn Barnes",
+            "author": "Jennifer Lynn Barnes",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Little, Brown",
+            "primary_isbn13": "9780759557635",
+            "primary_isbn10": "0759557632"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2021-12-18",
+        "published_date": "2022-01-02",
+        "rank": 8,
+        "rank_last_week": 0,
+        "weeks_on_list": 24,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/dp/0525708006?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "0525708006",
+            "isbn13": "9780525708001"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "THE COUSINS",
+            "description": "Three cousins learn about their family's dark past.",
+            "contributor": "by Karen M. McManus",
+            "author": "Karen M. McManus",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Delacorte",
+            "primary_isbn13": "9780525708001",
+            "primary_isbn10": "0525708006"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2021-12-18",
+        "published_date": "2022-01-02",
+        "rank": 9,
+        "rank_last_week": 6,
+        "weeks_on_list": 5,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/dp/1534457720?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1534457720",
+            "isbn13": "9781534457720"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "OUR VIOLENT ENDS",
+            "description": "The White Flowers and the Scarlet Gang join forces against a common enemy.",
+            "contributor": "by Chloe Gong",
+            "author": "Chloe Gong",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Margaret K. McElderry",
+            "primary_isbn13": "9781534457720",
+            "primary_isbn10": "1534457720"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2021-12-18",
+        "published_date": "2022-01-02",
+        "rank": 10,
+        "rank_last_week": 8,
+        "weeks_on_list": 7,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/dp/1250618843?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1250618843",
+            "isbn13": "9781250618849"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "GILDED",
+            "description": "A reimagining of the Brothers Grimm tale \"Rumpelstiltskin.\"",
+            "contributor": "by Marissa Meyer",
+            "author": "Marissa Meyer",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Feiwel & Friends",
+            "primary_isbn13": "9781250618849",
+            "primary_isbn10": "1250618843"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      }
+    ]
+  }

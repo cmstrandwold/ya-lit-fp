@@ -1,0 +1,463 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+    "num_results": 10,
+    "last_modified": "2019-08-29T20:54:03-04:00",
+    "results": [
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2016-12-17",
+        "published_date": "2017-01-01",
+        "rank": 1,
+        "rank_last_week": 1,
+        "weeks_on_list": 5,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Courage-Soar-Body-Motion-Balance/dp/0310759668?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "0310759668",
+            "isbn13": "9780310759669"
+          },
+          {
+            "isbn10": "0310759528",
+            "isbn13": "9780310759522"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "COURAGE TO SOAR",
+            "description": "The life of the gold-medal-studded Olympic gymnast.",
+            "contributor": "by Simone Biles with Michelle Burford",
+            "author": "Simone Biles with Michelle Burford",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Zondervan",
+            "primary_isbn13": "9780310759669",
+            "primary_isbn10": "0310759668"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2016-12-17",
+        "published_date": "2017-01-01",
+        "rank": 2,
+        "rank_last_week": 4,
+        "weeks_on_list": 7,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Sun-Also-Star-Nicola-Yoon/dp/0553496689?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "0553496689",
+            "isbn13": "9780553496680"
+          },
+          {
+            "isbn10": "0553496697",
+            "isbn13": "9780553496697"
+          },
+          {
+            "isbn10": "0553496700",
+            "isbn13": "9780553496703"
+          },
+          {
+            "isbn10": "0553496719",
+            "isbn13": "9780553496710"
+          },
+          {
+            "isbn10": "1984849395",
+            "isbn13": "9781984849397"
+          },
+          {
+            "isbn10": "1524721395",
+            "isbn13": "9781524721398"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "THE SUN IS ALSO A STAR",
+            "description": "The story of a girl, a boy, budding love and the universe.",
+            "contributor": "by Nicola Yoon",
+            "author": "Nicola Yoon",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Delacorte",
+            "primary_isbn13": "9780553496680",
+            "primary_isbn10": "0553496689"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2016-12-17",
+        "published_date": "2017-01-01",
+        "rank": 3,
+        "rank_last_week": 2,
+        "weeks_on_list": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Heartless-Marissa-Meyer-ebook/dp/B00XHJM7R0?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1250044650",
+            "isbn13": "9781250044655"
+          },
+          {
+            "isbn10": "1250080274",
+            "isbn13": "9781250080271"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "HEARTLESS",
+            "description": "Cath is a baker in love with a jester, before she becomes Wonderland's hectoring Queen of Hearts.",
+            "contributor": "by Marissa Meyer",
+            "author": "Marissa Meyer",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Feiwel & Friends",
+            "primary_isbn13": "9781250044655",
+            "primary_isbn10": "1250044650"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2016-12-17",
+        "published_date": "2017-01-01",
+        "rank": 4,
+        "rank_last_week": 0,
+        "weeks_on_list": 4,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Way-Things-Work-Now/dp/0544824385?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "0544824385",
+            "isbn13": "9780544824386"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "THE WAY THINGS WORK NOW",
+            "description": "An updated edition looks at how physics intersects with the everyday.",
+            "contributor": "by David Macaulay with Neil Ardley",
+            "author": "David Macaulay with Neil Ardley",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Houghton Mifflin Harcourt",
+            "primary_isbn13": "9780544824386",
+            "primary_isbn10": "0544824385"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2016-12-17",
+        "published_date": "2017-01-01",
+        "rank": 5,
+        "rank_last_week": 3,
+        "weeks_on_list": 7,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Dan-Phil-Go-Outside-Howell/dp/1524701459?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1524701459",
+            "isbn13": "9781524701451"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "DAN AND PHIL GO OUTSIDE",
+            "description": "Two photophobes venture into the wide world.",
+            "contributor": "by Dan Howell and Phil Lester",
+            "author": "Dan Howell and Phil Lester",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Random House",
+            "primary_isbn13": "9781524701451",
+            "primary_isbn10": "1524701459"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2016-12-17",
+        "published_date": "2017-01-01",
+        "rank": 6,
+        "rank_last_week": 7,
+        "weeks_on_list": 34,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Lady-Midnight-Dark-Artifices-Book-ebook/dp/B00X4114W0?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1481478613",
+            "isbn13": "9781481478618"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "LADY MIDNIGHT",
+            "description": "Shadowhunters grapple with occult murders and first love.",
+            "contributor": "by Cassandra Clare",
+            "author": "Cassandra Clare",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Margaret K. McElderry",
+            "primary_isbn13": "9781442468351",
+            "primary_isbn10": "1442468351"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2016-12-17",
+        "published_date": "2017-01-01",
+        "rank": 7,
+        "rank_last_week": 9,
+        "weeks_on_list": 49,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Six-Crows-Leigh-Bardugo/dp/1627792120?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1627792120",
+            "isbn13": "9781627792127"
+          },
+          {
+            "isbn10": "1627795227",
+            "isbn13": "9781627795227"
+          },
+          {
+            "isbn10": "1511343524",
+            "isbn13": "9781511343527"
+          },
+          {
+            "isbn10": "125007696X",
+            "isbn13": "9781250076960"
+          },
+          {
+            "isbn10": "1250777909",
+            "isbn13": "9781250777904"
+          },
+          {
+            "isbn10": "162779509X",
+            "isbn13": "9781627795098"
+          },
+          {
+            "isbn10": "1432896938",
+            "isbn13": "9781432896935"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "SIX OF CROWS",
+            "description": "A criminal prodigy assembles a fractious team to pull off a life-changing heist.",
+            "contributor": "by Leigh Bardugo",
+            "author": "Leigh Bardugo",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Holt",
+            "primary_isbn13": "9781627792127",
+            "primary_isbn10": "1627792120"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2016-12-17",
+        "published_date": "2017-01-01",
+        "rank": 8,
+        "rank_last_week": 5,
+        "weeks_on_list": 9,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Moon-Chosen-Tales-New-World/dp/1250100720?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "1250100720",
+            "isbn13": "9781250100726"
+          },
+          {
+            "isbn10": "1250100747",
+            "isbn13": "9781250100740"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "MOON CHOSEN",
+            "description": "Rivals and allies struggle to define their place in a postapocalyptic world.",
+            "contributor": "by P. C. Cast",
+            "author": "P C Cast",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "St. Martin's Griffin",
+            "primary_isbn13": "9781250100726",
+            "primary_isbn10": "1250100720"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2016-12-17",
+        "published_date": "2017-01-01",
+        "rank": 9,
+        "rank_last_week": 0,
+        "weeks_on_list": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "https://www.amazon.com/Scythe-Arc-Neal-Shusterman/dp/1442472421?tag=NYTBSREV-20",
+        "isbns": [],
+        "book_details": [
+          {
+            "title": "SCYTHE",
+            "description": "Teenagers become unwilling apprentices to the Grim Reapers in a world without death.",
+            "contributor": "by Neal Shusterman",
+            "author": "Neal Shusterman",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Simon & Schuster",
+            "primary_isbn13": "9781442472426",
+            "primary_isbn10": "1442472421"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "bestsellers_date": "2016-12-17",
+        "published_date": "2017-01-01",
+        "rank": 10,
+        "rank_last_week": 8,
+        "weeks_on_list": 31,
+        "asterisk": 0,
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/This-Is-Where-It-Ends/dp/149262246X?tag=NYTBSREV-20",
+        "isbns": [
+          {
+            "isbn10": "149262246X",
+            "isbn13": "9781492622468"
+          },
+          {
+            "isbn10": "1492622486",
+            "isbn13": "9781492622482"
+          }
+        ],
+        "book_details": [
+          {
+            "title": "THIS IS WHERE IT ENDS",
+            "description": "An act of violence parsed from four perspectives.",
+            "contributor": "by Marieke Nijkamp",
+            "author": "Marieke Nijkamp",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Sourcebooks Fire",
+            "primary_isbn13": "9781492622468",
+            "primary_isbn10": "149262246X"
+          }
+        ],
+        "reviews": [
+          {
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": ""
+          }
+        ]
+      }
+    ]
+  }
