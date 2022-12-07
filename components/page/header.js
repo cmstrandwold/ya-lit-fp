@@ -25,8 +25,8 @@ class Header extends HTMLElement {
             '            <li class="nav-item' + (pagename === "Data" ? ' active">' : '">')
             + '<a class="nav-link" href="data.html">Data</a>\n' +
             '            </li>\n' +
-            '            <li class="nav-item' + (pagename === "Process and Works Cited" ? ' active">' : '">') +
-            '              <a class="nav-link" href="data_analysis.html">Process and Works Cited</a>\n' +
+            '            <li class="nav-item' + (pagename === "Process" ? ' active">' : '">') +
+            '              <a class="nav-link" href="data_analysis.html">Process</a>\n' +
             '            </li>\n' +
             '            <li class="nav-item' + (pagename === "Research" ? ' active">' : '">') +
             '              <a class="nav-link" href="conclusion.html">Research</a>\n' +
@@ -56,7 +56,7 @@ class Header extends HTMLElement {
                 '      <div class="page-banner home-banner">\n' +
                 '        <div class="row align-items-center flex-wrap-reverse h-100">\n' +
                 '          <div class="col-md-6 py-5 wow fadeInLeft">\n' +
-                '            <h1 class="mb-4">Welcome to my final project!</h1>\n' +
+                '            <h1 class="mb-4">Exploring Diversity in Popular YA Literature</h1>\n' +
                 ' <p class="text-lg text-grey mb-5">Chloe Strandwold</p>\n' +
                 '            \n' +
                 '          </div>\n' +
