@@ -1,29 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="copyright" content="MACode ID, https://macodeid.com/">
-    <title>DS 4200 Final Project</title>
-    <link rel="stylesheet" href="stylesheets/stylesheet.css">
-    <link rel="stylesheet" href="stylesheets/normalize.css">
-    <link rel="stylesheet" href="stylesheets/github-light.css">
-    <link rel="stylesheet" href="assets/css/maicons.css">
-    <link rel="stylesheet" href="assets/css/bootstrap.css">
-    <link rel="stylesheet" href="assets/vendor/animate/animate.css">
-    <link rel="stylesheet" href="assets/css/theme.css">
-    <script src="components/page/footer.js" type="text/javascript" defer></script>
-    <script src="components/page/header.js" type="text/javascript" defer></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="copyright" content="MACode ID, https://macodeid.com/">
+  <title>DS 4200 Final Project</title>
+  <link rel="stylesheet" href="stylesheets/stylesheet.css">
+  <link rel="stylesheet" href="stylesheets/normalize.css">
+  <link rel="stylesheet" href="stylesheets/github-light.css">
+  <link rel="stylesheet" href="assets/css/maicons.css">
+  <link rel="stylesheet" href="assets/css/bootstrap.css">
+  <link rel="stylesheet" href="assets/vendor/animate/animate.css">
+  <link rel="stylesheet" href="assets/css/theme.css">
+  <script src="components/page/footer.js" type="text/javascript" defer></script>
+  <script src="components/page/header.js" type="text/javascript" defer></script>
 
 </head>
 
 
 
 <body>
-<!-- Back to top button -->
-<div class="back-to-top"></div>
-<header-component pagename="Data"></header-component>
+  <!-- Back to top button -->
+  <div class="back-to-top"></div>
+  <header-component pagename="Data"></header-component>
 
   <div class="page-section">
     <div class="container">
@@ -32,47 +33,98 @@
           <h2 class="title-section">Data</h2>
           <div class="divider"></div>
 
-          <p>
-            <a href="https://developer.nytimes.com/docs/books-product/1/routes/lists/best-sellers/history.json/get">Link to NYT API</a>
-            <h3>Current Bestseller List</h3>
-            <div id="current-bestseller"></div>
-            
-            <h3>2016 Bestseller List</h3>
-            <div id="2016-bestseller"></div>
-            </p>
+
+
+
+          <tableau-viz id='tableau-viz'
+            src='https://prod-useast-a.online.tableau.com/t/yalitfp/views/ya-lit-project/Dashboard1' width='1000'
+            height='850' toolbar='bottom'></tableau-viz>
+
+
+          <a href="https://developer.nytimes.com/docs/books-product/1/routes/lists/best-sellers/history.json/get">Link
+            to NYT API</a>
+          <div class='tableauPlaceholder' id='viz1670371378248' style='position: relative'>
+            <object class='tableauViz' style='display:none;'>
+              <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+              <param name='embed_code_version' value='3' />
+              <param name='path' value='shared&#47;X2D6CGNF5' />
+              <param name='toolbar' value='yes' />
+              <param name='static_image'
+                value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;X2&#47;X2D6CGNF5&#47;1.png' />
+              <param name='animate_transition' value='yes' />
+              <param name='display_static_image' value='yes' />
+              <param name='display_spinner' value='yes' />
+              <param name='display_overlay' value='yes' />
+              <param name='display_count' value='yes' />
+              <param name='tabs' value='no' />
+              <param name='language' value='en-US' />
+            </object>
+          </div>
 
         </div>
       </div>
     </div>
   </div>
 
-
-  <footer-component><footer-component/>
+  <footer-component>
+    <footer-component />
 
 </body>
 
-<script type="text/javascript" defer>
+<script type='module'
+  src='https://prod-useast-a.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script>
 
-var getString = (jsonResponse) => {
-      var fullList = '<ol>';
-      jsonResponse['results']['books'].forEach(element => {
-        fullList += '<li>'+element.title + ': '
-        var list = fetch('https://openlibrary.org/api/books?bibkeys=ISBN:'+ element.primary_isbn13 + '&jscmd=data&format=json')
-          .then(response => response.json())
-          .then(jsonResponse => {
-            var subjects = jsonResponse['ISBN:'+element.primary_isbn13]['subjects'].slice(0, 10)
-            subjects.forEach(sub => {
-              console.log(sub ['name'])
-              fullList += sub['name'] + ', '
-            })
+
+<noscript>
+  <a
+    href='https:&#47;&#47;www.census.gov&#47;library&#47;visualizations&#47;interactive&#47;racial-and-ethnic-diversity-in-the-united-states-2010-and-2020-census.html'>
+    <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;X2&#47;X2D6CGNF5&#47;1_rss.png'
+      style='border: none' />
+  </a>
+</noscript>
+
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1670371378248');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  if (divElement.offsetWidth > 800) {
+    vizElement.style.width = '1140px';
+    vizElement.style.height = '1227px';
+  }
+  else if (divElement.offsetWidth > 500) {
+    vizElement.style.width = '1140px';
+    vizElement.style.height = '1227px';
+  }
+  else {
+    vizElement.style.width = '100%';
+    vizElement.style.height = '1527px';
+  }
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+<script type="text/javascript" defer>
+  console.log(data)
+  var getString = (jsonResponse) => {
+    var fullList = '<ol>';
+    jsonResponse['results']['books'].forEach(element => {
+      fullList += '<li>' + element.title + ': '
+      var list = fetch('https://openlibrary.org/api/books?bibkeys=ISBN:' + element.primary_isbn13 + '&jscmd=data&format=json')
+        .then(response => response.json())
+        .then(jsonResponse => {
+          var subjects = jsonResponse['ISBN:' + element.primary_isbn13]['subjects'].slice(0, 10)
+          subjects.forEach(sub => {
+            console.log(sub['name'])
+            fullList += sub['name'] + ', '
           })
-        // isbn = element.isbn
-        fullList += '</li>'
-      });
-      fullList += '</ol>'
-      return fullList
-    }
-  
+        })
+      // isbn = element.isbn
+      fullList += '</li>'
+    });
+    fullList += '</ol>'
+    return fullList
+  }
+
   var current = fetch('https://api.nytimes.com/svc/books/v3/lists/current/young-adult-paperback.json?api-key=6w7msGHKTM0cvLrsHgH2vrjKFnueq8Ec')
     .then((response) => response.json())
     .then(jsonResponse => {
@@ -80,11 +132,12 @@ var getString = (jsonResponse) => {
     })
 
 
-    var list2016 = fetch('https://api.nytimes.com/svc/books/v3/lists/2016-01-03/young-adult-paperback.json?api-key=6w7msGHKTM0cvLrsHgH2vrjKFnueq8Ec')
+  var list2016 = fetch('https://api.nytimes.com/svc/books/v3/lists/2016-01-03/young-adult-paperback.json?api-key=6w7msGHKTM0cvLrsHgH2vrjKFnueq8Ec')
     .then((response) => response.json())
     .then(jsonResponse => document.getElementById("2016-bestseller").innerHTML = getString(jsonResponse))
 
-    
-  
+
+
 </script>
+
 </html>
